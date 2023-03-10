@@ -1,2 +1,1 @@
 # jujutso-kaisen
-# jujutso-kaisen

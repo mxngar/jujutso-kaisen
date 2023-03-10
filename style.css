@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: black;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+main{
+    color: blanchedalmond;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    color: red;
+}
+.INFO{
+    gap: 16px;
+    display: flex;
+}
+.redes{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 1150px;
+}
+.info_text{
+align-content: center;
+}
+footer{
+    color: blanchedalmond;
+
+}
