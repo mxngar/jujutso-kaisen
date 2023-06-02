@@ -12,9 +12,14 @@ body{
     align-items: center;
 }
 main{
+    display: flex;
+    flex-direction: column;
     color: blanchedalmond;
-    justify-content: center;
-    align-items: center;
+
+}
+
+.teste2{
+    display: flex;
 }
 header{
     color: red;
@@ -24,10 +29,20 @@ header{
     display: flex;
 }
 .redes{
+    width: 250px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    margin-left: 1150px;
+    /* margin-left: 1150px; */
+}
+
+.links{
+    width: 100%;
+    background-color: yellow;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .info_text{
 align-content: center;
